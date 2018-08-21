@@ -1,0 +1,4 @@
+extract_bottlenect_features.py 获取特征向量
+faster-RCNN 切割狗图
+merge2.py 训练最后几层
+split.py 切割val dataset
